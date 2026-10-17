@@ -1,0 +1,28 @@
+site_name: "Rolling Mill Equipment Shop Record"
+site_url: https://canadian-mill-equipment-reference.readthedocs.io/
+site_description: "Rolling Mill Equipment Shop Record: preserved shop record index."
+site_author: "Canadian Mill Equipment Archive"
+copyright: "Preserved shop record index."
+
+docs_dir: docs
+
+theme:
+  name: material
+  features:
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: indigo
+
+nav:
+  - Reference: index.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra:
+  generator: false
