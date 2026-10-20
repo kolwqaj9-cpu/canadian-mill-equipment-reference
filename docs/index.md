@@ -42,3 +42,12 @@ Preserved shop record for canadianmillequipment.com. The former plant is not quo
 | 4 | [Stainless Steel Fabrication](https://canadianmillequipment.com/articles/stainless-steel-fabrication.html) | stainless steel fabrication |
 
 See the full index at [canadianmillequipment.com](https://canadianmillequipment.com/).
+
+Service pages maintained with this archive
+================================
+
+The reference notes above support the production work documented on the shop's own service pages:
+
+* `Used Sawmill Equipment — Specification Guide <https://https://canadianmillequipment.com/services/used-sawmill-equipment.html>`_ — How used sawmill equipment is evaluated: wear surfaces, bearings, arbor and feed alignment, drive condition, guarding, and rebuilt versus as-is.
+* `Mill Equipment Broker — Specification Guide <https://https://canadianmillequipment.com/services/mill-equipment-broker.html>`_ — How a mill equipment broker transaction works: valuation, rigging, commissioning, spares, and paperwork, referencing the preserved Bentley Manufacturing br
+* `Rebuilt Machinery — Specification Guide <https://https://canadianmillequipment.com/services/rebuilt-machinery.html>`_ — What rebuilt machinery means in practice: replaced versus reconditioned parts, alignment and runout restoration, documentation, and cost versus an all-new
